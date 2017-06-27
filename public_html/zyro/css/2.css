@@ -1,0 +1,49 @@
+
+#wb_header { background: transparent none repeat scroll left top; height: 110px; }
+#wb_main { background: #ffffff none repeat scroll left top; height: 840px; padding-bottom: 80px; }
+#wb_footer { background: transparent none repeat-x scroll left top; height: 70px; }
+body { background: transparent url("../gallery_gen/dc9fbac843814239c4e5e5e37beccbcf.jpg") repeat-x scroll left top; }
+.wb_sbg { background: transparent url("../gallery_gen/fb403678931ea5950f57c939788cfc82.jpg") repeat-x scroll center bottom; }
+body, .wb_sbg { min-width: 1200px; min-height: 1020px; }
+.root { width: 1200px; height: 1020px; overflow: visible; min-height: 1020px; }
+#wb_element_instance25 { left: 700px; top: 40px; min-width: 500px; width: 500px; min-height: 57px; height: 57px; display: block; z-index: 94; }
+#wb_element_instance25 ul { background: transparent none no-repeat scroll center top; border: 1px none #000000; }
+#wb_element_instance25, #wb_element_instance25 ul { text-align: right; }
+#wb_element_instance25 ul ul { background: #2e2e2e none repeat scroll left top; }
+#wb_element_instance25 li { margin: 0px 0px 0px 0px; }
+#wb_element_instance25 li a { text-transform: uppercase; border: 0px none #000000; padding: 19px 30px 19px 30px; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #000000; line-height: 16px; background: transparent none repeat scroll left top; }
+#wb_element_instance25 li.over > a, #wb_element_instance25 li:focus > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #9854c9; line-height: 16px; background: transparent none no-repeat scroll left top; }
+#wb_element_instance25 li.active > a { border: 0px none #000000; font: normal bold 14px Arial,Helvetica,sans-serif; text-decoration: none; color: #9552c4; line-height: 16px; background: transparent none no-repeat scroll left top; }
+#wb_element_instance25:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance25:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance25:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance26 { left: 70px; top: 27px; min-width: 460px; width: 460px; min-height: 57px; height: 57px; display: block; z-index: 92; }
+#wb_element_instance27 { left: 0px; top: 24px; min-width: 50px; width: 50px; min-height: 60px; height: 60px; display: block; z-index: 93; }
+#wb_element_instance27 img { width: 50px; height: 60px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance28 { left: 40px; top: 27px; min-width: 247px; width: 247px; min-height: 32px; height: 32px; display: block; z-index: 92; }
+#wb_element_instance29 { left: 840px; top: 120px; min-width: 320px; width: 320px; min-height: 150px; height: 150px; display: block; z-index: 24; }
+#wb_element_instance29 img { width: 320px; height: 150px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance30 { left: 40px; top: 300px; min-width: 280px; width: 280px; min-height: 160px; height: 160px; display: block; z-index: 25; }
+#wb_element_instance30 img { width: 280px; height: 160px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance31 { left: 40px; top: 120px; min-width: 760px; width: 760px; min-height: 132px; height: 132px; display: block; z-index: 26; }
+#wb_element_instance32 { left: 360px; top: 340px; min-width: 800px; width: 800px; min-height: 154px; height: 154px; display: block; z-index: 27; }
+#wb_element_instance33 { left: 40px; top: 40px; min-width: 1120px; width: 1120px; min-height: 54px; height: 54px; display: block; z-index: 28; }
+#wb_element_instance34 { left: 360px; top: 300px; min-width: 370px; width: 370px; min-height: 32px; height: 32px; display: block; z-index: 29; }
+#wb_element_instance35 { left: 40px; top: 540px; min-width: 1120px; width: 1120px; min-height: 220px; height: 220px; display: block; z-index: 30; }
+#wb_element_instance36 { left: 0px; top: 864px; display: block; z-index: 9000; }
+#wb_element_instance37 { left: 0px; top: 72px; display: block; z-index: 9999; }
+
+
+#wb_element_instance26 p:last-child { margin-bottom: 0; }
+#wb_element_instance28 p:last-child { margin-bottom: 0; }
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+#wb_element_instance32 p:last-child { margin-bottom: 0; }
+#wb_element_instance33 p:last-child { margin-bottom: 0; }
+#wb_element_instance34 p:last-child { margin-bottom: 0; }
+#wb_element_instance35 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
